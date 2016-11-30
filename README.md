@@ -8,6 +8,6 @@
 | Purdue | PhD in Stat | 24 | 20 | 28 | Jan 15 |http://www.stat.purdue.edu/academic_programs/graduate/how_to_apply.php#msphd| | |
 | Penn State | PhD in Stat | 20 | 29 |  | Jan 7| http://stat.psu.edu/education/graduate-programs/apply-to-the-statistics-graduate-program-2| | |
 | ?George Washington | PhD in Stat | 53 | 82 |  | Jan 5| | | |
-| Georgia Tech | MS in CS |  |  |  | Feb 1| http://www.cc.gatech.edu/future/masters/mscs| | |
+| Georgia Tech | MS in CS | Math&IE | 28 | 9 | Feb 1| http://www.cc.gatech.edu/future/masters/mscs| | |
 
 #### ?: undecidable
