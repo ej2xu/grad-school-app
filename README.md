@@ -7,5 +7,4 @@
 | University of Florida | PhD in Stat | 30 | 48 | 56 | Jan 9 | | | |
 | Purdue | PhD in Stat | 24 | 20 | 28 | Jan 15 |http://www.stat.purdue.edu/academic_programs/graduate/how_to_apply.php#msphd| | |
 | Penn State | PhD in Stat | 20 | 29 |  | Jan 7| http://stat.psu.edu/education/graduate-programs/apply-to-the-statistics-graduate-program-2| | |
-| Penn State | PhD in Stat | 20 | 29 |  | Jan 7| http://stat.psu.edu/education/graduate-programs/apply-to-the-statistics-graduate-program-2| | |
 | Georgia Tech | MS in CS |  |  |  | Feb 1| http://www.cc.gatech.edu/future/masters/mscs| | |
