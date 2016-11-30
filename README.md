@@ -1,8 +1,7 @@
 ## school tables
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| School Name | Program  | Stat Rank (US news)| CS Rank | Math Rank|
+| -------------|:----:|-------------:| -----:| ------:|
+| UIUC      | PhD in Stat | 34 | 5 | 17 |
+| UIUC      | PhD in LIS | 34 | 5 | 17 |
