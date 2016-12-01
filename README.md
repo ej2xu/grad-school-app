@@ -1,4 +1,4 @@
-# schools table
+# school table
 
 | School Name | Program  | Stat Rank (US news)| CS Rank | Math Rank| Deadline | Website | fee | Addition Note |
 | ----------:|----:|-------------:| -----:| ------:| ---:| ---:| ---:|---:|
@@ -12,6 +12,6 @@
 | Georgia Tech | MS in CS | Math&IE | 9 | 28 | Feb 1| http://www.cc.gatech.edu/future/masters/mscs| | |
 
 #### ?: undecidable
-#### Purdue required TOEFL&GRE with 2 years, costs 160+180, don't apply if verified. The rest schools are all good.
+#### Purdue required TOEFL&GRE within 2 years, costs 160+180, don't apply if verified. The rest schools are all good.
 #### UFL faq: http://www.stat.ufl.edu/academics/grad/Frequently_Asked_Questions.html
 #### penn state faq: http://stat.psu.edu/education/graduate-program-faq/graduate-research-programs
