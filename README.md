@@ -1,4 +1,4 @@
- ## schools table
+# schools table
 
 | School Name | Program  | Stat Rank (US news)| CS Rank | Math Rank| Deadline | Website | fee | Addition Note |
 | ----------:|----:|-------------:| -----:| ------:| ---:| ---:| ---:|---:|
