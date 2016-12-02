@@ -2,7 +2,7 @@
 
 | School Name | Program  | Stat Rank (US news)| CS Rank | Math Rank| Deadline | Website | fee | Addition Note |
 | ----------:|----:|-------------:| -----:| ------:| ---:| ---:| ---:|---:|
-| UIUC      | PhD in Math | 34 | 5 | 17 | Dec 15 | | $90| |
+| UIUC      | PhD in Math | 34 | 5 | 17 | Jan 4 |http://www.math.illinois.edu/GraduateProgram/apply-phd.html | $90| |
 | UIUC      | PhD in Stat | 34 | 5 | 17 | Dec 15 | http://www.stat.illinois.edu/students/phd.shtml| $90| |
 | UIUC      | PhD in LIS | 34 | 5 | 17 | Dec 15 | https://ischool.illinois.edu/academics/degrees/phd| $90|research statement|
 | University of Florida | PhD in Stat | 30 | 48 | 56 | Jan 9 | | | |
